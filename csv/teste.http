@@ -1,0 +1,6 @@
+GET http://localhost:9090/name
+Content-Type: application/json
+
+{
+  "name": "mateus"
+}

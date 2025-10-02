@@ -1,0 +1,6 @@
+GET http://localhost:9090/salesByProduct
+Content-Type: application/json
+
+{
+  "name": "laptop"
+}
